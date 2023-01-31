@@ -282,7 +282,7 @@ footer {
 @media (min-width: 1200px) {
 
     header {
-        margin: auto 3em;
+        margin: auto 7em;
     }
     nav {
         visibility: unset;
@@ -411,7 +411,7 @@ footer {
 
     .cta-section {
         display: flex;
-        width: 60%;
+        width: 65%;
         margin: 0 auto;
         justify-content: space-between;
         background-image: url('./images/bg-pattern-how-we-work-desktop.svg');
